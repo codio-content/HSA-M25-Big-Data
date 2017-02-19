@@ -1,0 +1,75 @@
+[
+ {
+  "taskId": "fill-in-the-blanks-3098182283",
+  "points": 0,
+  "state": {
+   "active": []
+  },
+  "results": []
+ },
+ {
+  "taskId": "fill-in-the-blanks-734990205",
+  "points": 1,
+  "state": {
+   "active": [
+    "27"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "27"
+    ],
+    "right": [
+     "27"
+    ],
+    "timestamp": 1484246408675
+   }
+  ]
+ },
+ {
+  "taskId": "multiple-choice-1995776548",
+  "points": 0,
+  "state": {
+   "active": null
+  },
+  "results": []
+ },
+ {
+  "taskId": "multiple-choice-908064347",
+  "points": 0,
+  "state": {
+   "active": null
+  },
+  "results": []
+ },
+ {
+  "taskId": "multiple-choice-4001673391",
+  "points": 0,
+  "state": {
+   "active": null
+  },
+  "results": []
+ },
+ {
+  "taskId": "multiple-choice-894833695",
+  "points": 0,
+  "state": {
+   "active": [
+    "be7c8120-6bd7-02d7-5364-1c9b4254b56e"
+   ]
+  },
+  "results": [
+   {
+    "current": [
+     "be7c8120-6bd7-02d7-5364-1c9b4254b56e"
+    ],
+    "right": [
+     "04255677-8e92-9e13-626c-8c8bee1cf01b",
+     "be7c8120-6bd7-02d7-5364-1c9b4254b56e"
+    ],
+    "timestamp": 1487456913648
+   }
+  ]
+ }
+]
